@@ -1,2 +1,2 @@
 # nano_remedy
-This rpository will store all nano remedy media 
+This repository will store all nano remedy media 
